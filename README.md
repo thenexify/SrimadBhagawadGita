@@ -13,6 +13,15 @@
 
 ### Jai Shree Krishna
 
+### [EDIT] 12/6/24 
+### Updates June / July 2024
+- Solve Errors with Blocking
+- Promotion
+- Daily Updates
+- New Translations
+
+### Next Update will be a website related to this 
+
 [Bot Link Telegram](https://tx.me/ShrimadBhagwadGeeta_bot)
 [Bot Status and Updates](https://tx.me/ShrimadBhagwadGeeta_Status)
 [CrackCodes](https://tx.me/crackcodes)
